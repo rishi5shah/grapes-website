@@ -848,18 +848,18 @@
                     <h4 class="text-white font-bold mb-4" data-key="footer_col_1">Platform</h4>
                     <ul class="space-y-2 text-gray-400 text-sm">
                         <li><a href="#marketplace" class="hover:text-brand-red transition-colors" data-key="nav_marketplace">Publisher Marketplace</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_ai">AI Content Draft</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_analytics">Analytics Dashboard</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_pricing">Pricing</a></li>
+                        <li><a href="#ai-demo" class="hover:text-brand-red transition-colors" data-key="footer_link_ai">AI Content Draft</a></li>
+                        <li><a href="#marketplace" class="hover:text-brand-red transition-colors" data-key="footer_link_analytics">Analytics Dashboard</a></li>
+                        <li><a href="#waitlist" class="hover:text-brand-red transition-colors" data-key="footer_link_pricing">Pricing</a></li>
                     </ul>
                 </div>
                 <div>
                     <h4 class="text-white font-bold mb-4" data-key="footer_col_2">Company</h4>
                     <ul class="space-y-2 text-gray-400 text-sm">
                         <li><a href="#about" class="hover:text-brand-red transition-colors" data-key="footer_link_about">About Us</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_careers">Careers</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_contact">Contact</a></li>
-                        <li><a href="#" class="hover:text-brand-red transition-colors" data-key="footer_link_privacy">Privacy Policy</a></li>
+                        <li><a href="#waitlist" class="hover:text-brand-red transition-colors" data-key="footer_link_careers">Careers</a></li>
+                        <li><a href="#waitlist" class="hover:text-brand-red transition-colors" data-key="footer_link_contact">Contact</a></li>
+                        <li><a href="#waitlist" class="hover:text-brand-red transition-colors" data-key="footer_link_privacy">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div>
